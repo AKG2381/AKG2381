@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AKG2381
 - 👀 I’m interested in Coding/Programming
-- 🌱 I’m currently learning c/c++/python/DSA/ML
+- 🌱 I’m currently learning python/DSA/ML
 - 📫 How to reach me ajeetmalhar5@gmail.com
 
 <!---
