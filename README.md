@@ -1,9 +1,20 @@
-- 👋 Hi, I’m @Ajeet Kumar Gupta
-- 📫 How to reach me ajeetmalhar5@gmail.com
-- 🌱 I’m currently learning Python for Machine Learning
-- 👯 I’m looking to collaborate on any Machine Learning projects
-- 💬 Here to discuss about technology 👩‍💻 and space 🚀
+# Ajeet Kumar Gupta
+
+👋 Hi, I'm Ajeet Kumar Gupta, a Python Developer and enthusiastic about Data Science and Machine Learning.
+
+## About Me
+- 💼 Currently working as a Python Developer.
+- 🌱 Data Science and Machine Learning enthusiast.
+- ⚙️ Experienced in Django development.
+- 🕸️ Proficient in web scraping.
+
+## Contact
+- 📧 Email: ajeetmalhar5@gmail.com
 - 😄 Pronouns: He/Him
+
+## Interests
+- 👯 Open to collaborating on Machine Learning/Django projects.
+- 💬 Here to discuss technology and space.
 
 <!---
 AKG2381/AKG2381 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
