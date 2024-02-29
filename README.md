@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning about **Python and Django framework**
 
-- 💬 Ask me about **Python,Data Science & ML ,web scraping**
+- 💬 Ask me about **Python,Data Science & ML ,web scraping** 
 
 - 📫 How to reach me **ajeetmalhar5@gmail.com**
 
