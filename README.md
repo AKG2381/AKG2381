@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white"  alt="restapi"/>
 </div>
  
- | Github Stats | Current Strek  |
+<! | Github Stats | Current Strek  |
 | --- | --- |
 | ![Pravin Mohite's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKG2381&show_icons=true&theme=tokyonight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AKG2381&theme=tokyonight)](https://git.io/streak-stats) |
 <!-- Theme color -->
@@ -50,12 +50,13 @@
 | Top Languages | Contribution Graph  |
 | :--- | --- |
 | <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=AKG2381&show_icons=true&theme=cobalt" alt="ajeet's Language stats" /> | <p align="center"> <a href="https://github.com/AKG2381"><img src="https://github-profile-trophy.vercel.app/?username=AKG2381&margin-w=5&theme=radical" alt="AKG2381" /></a> </p> |
-
+!>
 
 
 
 <!-- <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" /> -->
 
 
-
+<!
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 100%;">
+!>
