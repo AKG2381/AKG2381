@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ajeet Kumar Gupta</h1>
-<h3 align="center">Results-driven Python Developer with expertise in Django, Data Science, and Machine Learning. Proven track record in delivering high-quality solutions. Proficient in Python programming, Django web development, data analysis, and machine learning algorithms. Committed to staying current with the latest technologies. A collaborative and detail-oriented professional dedicated to driving successful projects and advancing technology</h3>
+<h3 align="center">Results-driven Python Developer with expertise in FastAPI, Data Science, and Machine Learning. Proven track record in delivering high-quality solutions. Proficient in Python programming, Django web development, data analysis, and machine learning algorithms. Committed to staying current with the latest technologies. A collaborative and detail-oriented professional dedicated to driving successful projects and advancing technology</h3>
 <img src="https://dailyillini.com/wp-content/uploads/2017/04/arm-orange-4-01-Recovered.gif" >
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 
-- 🔭 I’m currently working at  <a href="" target="blank"><strong>TVH India</strong></a> </p>
+- 🔭 I’m currently working at  <a target="blank"><strong>TVH India</strong></a>
 
-- 🌱 I’m currently learning about **Python and Django framework**
+- 🌱 I’m currently learning about **Python FastApi framework**
 
-- 💬 Ask me about **Python,Data Science & ML ,web scraping** 
+- 💬 Ask me about **Python,FastAPI,Data Science & ML ,web scraping** 
 
 - 📫 How to reach me **ajeetmalhar5@gmail.com**
 
